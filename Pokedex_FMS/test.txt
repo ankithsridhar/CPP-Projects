@@ -1,0 +1,44 @@
+Dex Number: 1
+Pokemon Name: Bulbasaur
+Pokemon Type: Grass
+Number of moves: 2
+Move 1: Vine_Whip
+Move 2: Razor_Leaf
+
+Dex Number: 1
+Pokemon Name: a
+Pokemon Type: a
+Number of moves: 2
+Move 1: m1
+Move 2: m2
+
+Dex Number: 7
+Pokemon Name: Squirtle
+Pokemon Type: Water
+Number of moves: 4
+Move 1: Bubble
+Move 2: Bite
+Move 3: Tackle
+Move 4: Aqua_Tail
+
+Dex Number: 54
+Pokemon Name: Psyduck
+Pokemon Type: Water
+Number of moves: 4
+Move 1: Soak
+Move 2: Confusion
+Move 3: Zen_Headbutt
+Move 4: Water_Sport
+
+Dex Number: 37
+Pokemon Name: Vulpix
+Pokemon Type: Fire
+Number of moves: 1
+Move 1: Flame_Burst
+
+Dex Number: 1
+Pokemon Name: dog
+Pokemon Type: water
+Number of moves: 2
+Move 1: m1
+Move 2: m2
